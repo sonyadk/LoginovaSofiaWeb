@@ -7,6 +7,7 @@
   - HTML/CSS;
   - Pascal ABC.
   
+ [Ссылка на мой репозиторий GitHub с лабораторными работами по модулю "Проектирование и разработка веб-решений"](https://github.com/sonyadk/web-course "Ссылочка на репозиторий")
  [Ссылка на мой GitHub Pages](https://sonyadk.github.io/LoginovaSofiaWeb.github.io/ "Ссылочка")
  
  [Ссылка на REPL с решением задачи "Нахождение площади треугольника по формуле Герона"](https://repl.it/@sonyadk/oups "Ссылочка на задание")
